@@ -1,14 +1,12 @@
-<style>
 
-h1 { color: red;}
-img {width: 400px;}
-#thirdDiv { height: 500px;
-    width: 600px;
-    background-color: blue;
-padding: 50px;
-border: 10px solid red;}
+     h1 { color: red;}
+      img {width: 400px;}
+       #thirdDiv { height: 500px;
+        width: 600px;
+       background-color: blue;
+        padding: 50px;
+        border: 10px solid red;}
 
-    #spanid {
+       #spanid {
         margin: 50px;
         font-size: 18px;}
-</style>
